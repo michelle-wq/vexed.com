@@ -1,0 +1,149 @@
+.navbar-brand{
+    padding-right: 300px;
+    color:  #6a9c89;
+    font-family: monospace;
+    font-weight:bold ;
+}
+.navbar{
+   width: 100%;
+   height: fit-content;
+}
+
+
+.button1 {
+     border-radius: 12px;
+    margin-top: 7px;
+     width: 90px;
+     background-color: #387f39;
+     color: #fff;
+     border: none;
+     font-family: montserrat;
+   }
+  
+  
+.nav-link{
+       margin-right: 20px;
+       color: #387f39;
+       font-family: montserrat;
+   }
+.sign{
+       padding-left: 10px;
+       color: #387f39;
+       margin: 7px 7px;
+      
+       
+   }
+.button1:hover {
+     background-color: #939185;
+   }
+.nav-link:hover {
+    color: #387f39;
+   }
+.sci-fi{
+     padding-bottom: 10px;
+   }
+
+.beef{
+   padding-top: 150px;
+   color: #fff;
+  font-size: 2.5rem;
+   padding-left: 30px;
+   text-align: left;
+   font-family: monospace;
+   margin: auto;
+   font-weight: bolder;
+}
+.button2{
+   background-color: #6a9c89;
+ margin-left: 30px;
+ border-radius: 20px;
+ width: 200px;
+ border: 0px;
+}
+.button2:hover {
+   background-color: #939185;
+ }
+ .fries{
+   text-align: center;
+   padding: 20px;
+   font-family: monospace;
+ }
+ .card-img-top{
+  
+ }
+.col{
+  justify-content: center;
+}
+.item-tag{
+ background-color: #6a9c89;
+ width: 20%;
+ padding-left: 30px;
+}
+.first{
+   padding-right: 1000px;
+}
+.row{
+   padding: 30px 80px;
+}
+.badge{
+   width: 100px;
+   height: 25px;
+   padding: 30px 10px 0px;
+  
+}
+.carousel-control-prev{
+}
+
+
+@media(max-width: 600px){
+   .flow{
+      background-size: contain;
+      height: 50vh;
+     
+
+   }
+   body{
+      font-size: 20px;
+      font-family: 'Courier New', Courier, monospace;
+   }
+  .col{
+   width: 50px;
+  
+  }
+  .beef{
+   padding-top: 500px;
+   font-size: 2.5rem;
+
+  }
+   
+   p{
+      line-height: 1.6rem;
+      margin-bottom: 1.2em;
+      font-size: 1.2rem;
+      
+   }
+   h1{
+      font-size:2.5rem;
+   }
+   .button{
+      font-size:1.5rem;
+   }
+   h3{
+      line-height: 1rem;
+      font-size:2.5rem;
+   }
+   h6{
+      line-height: 1rem;
+      font-size:2.5rem;
+   }
+
+   .btn{
+
+   }
+   .button1{
+
+   }
+   .nav-link{
+
+   }
+}
